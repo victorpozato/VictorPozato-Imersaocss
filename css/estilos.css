@@ -1,0 +1,32 @@
+body {
+    background-image:url('https://digitalks.com.br/expo-2017/wp-content/uploads/sites/5/2015/03/fundo-site-expo.png');
+    font-family:arial;
+    background-size:auto auto;
+    height: 100vh;
+  }
+  .menu {
+    Background:white;
+  }
+  .menu uln{
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style: none;
+  }
+  a {
+    color: teal;
+    text-decoration: none; 
+  }
+  a:hover{
+    text-decoration:underline;
+  }
+  .site-subtitle,
+  .site-title {
+    text-align:center;
+    color: #483D8B;
+  }
+  .site-subtitle {
+    font-style:italic;
+  }
+  
